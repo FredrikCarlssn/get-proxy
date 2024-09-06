@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Proxy Address Resolver",
+  "name": "Proxy Address Resolver getting the actual address of a smart contract from proxies. Collects the info directly from the bytecode so the function in the contract does not need to be public.",
   "icons": [
     {
       "src": "favicon.ico",
